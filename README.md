@@ -1,4 +1,4 @@
-# Military-Aircraft-Conditional-GAN-model-Combination-2
+# Military-Aircraft-Conditional-GAN-model-Combination2
 【 Conditional GAN (cGAN) Image Generation Framework-Combination-2 】
 
 This repository provides a **comprehensive PyTorch implementation of a Conditional Generative Adversarial Network (cGAN)** for **class-conditional image generation**, equipped with **extensive quantitative evaluation metrics**.
